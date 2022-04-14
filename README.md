@@ -8,10 +8,10 @@ I'm a motivated computer engineer who intrested in web application and peace !
 [![Website Badge](https://img.shields.io/badge/-amirjf.ir-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://amir-jf.ir/)](https://amir-jf.ir/)
 [![Gmail Badge](https://img.shields.io/badge/-amir.mja77@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amir.mja77@gmail.com)](mailto:amir.mja77@gmail.com)
 ## ⚡ Stacks:
-- React Js
-- Redux
-- Scss
-- Tailwind
+
+- Languages: JavaScript , TypeScript
+- Frontend: React, Redux, Tailwind Css, React Bootstrap, Scss, Rest API Version Control : Git
+- Database: Firebase
 
 
 <!--
