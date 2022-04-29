@@ -11,7 +11,8 @@ I'm a motivated computer engineer who intrested in web application and peace !
 ## ⚡ Stacks:
 
 - Languages: JavaScript , TypeScript
-- Frontend: React, Redux, Tailwind Css, React Bootstrap, Scss, Rest API Version Control : Git
+- Frontend: React, Redux, Tailwind Css, React Bootstrap, Scss, Rest API
+- Version Control: Git
 - Database: Firebase
 
 
