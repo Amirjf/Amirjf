@@ -10,9 +10,9 @@ I'm a motivated computer engineer who intrested in web application and peace !
 [![wakatime](https://wakatime.com/badge/user/b7d5329b-2a68-4b87-b0d8-dd07a58c6ddf.svg)](https://wakatime.com/@b7d5329b-2a68-4b87-b0d8-dd07a58c6ddf)
 ## ⚡ Stacks:
 
-- Languages: JavaScript , TypeScript
+- Languages: JavaScript, TypeScript
 - Frontend: React, Redux, Rest API, Tailwind Css, Scss, styled components
-- ui libraries: Material Ui, Chakra, Ant design, React bootstrap
+- UI libraries: Material Ui, Chakra, Ant design, React bootstrap
 - Version Control: Git
 - Database: Firebase
 
