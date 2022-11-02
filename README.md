@@ -1,7 +1,7 @@
 ![Header image](https://raw.githubusercontent.com/Amirjf/Amirjf/main/github_header.jpg)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 
-I'm a motivated computer engineer who intrested in web application and peace !
+Innovative Front-End Developer with 2+ year of Professional experience, focused on maintainable and scalable design and development. I’m enthusiastic about technology and enjoy working in self-organized teams and also continue my career and acquiring new skills from other engineers and expanding my knowledge .
 
 [![Linkedin Badge](https://img.shields.io/badge/-AmirJafari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/amir-jafari/)](https://www.linkedin.com/in/amir-jafari/)
 [![Instagram Badge](https://img.shields.io/badge/-AmirJafari-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/amir_jfri77/)](https://www.instagram.com/amir_jfri77/)
@@ -11,8 +11,8 @@ I'm a motivated computer engineer who intrested in web application and peace !
 ## ⚡ Stacks:
 
 - Languages: JavaScript, TypeScript
-- Frontend: React, Redux, Rest API, Tailwind Css, Scss, styled components
-- UI libraries: Material Ui, Chakra, Ant design, React bootstrap
+- Frontend: React, Redux, Rest API, Responive design, React Query, SWR, Vite, Webpack, Tailwind Css, Scss, Styled-Components, Nextjs, Gatsby
+- UI libraries: Material Ui, Chakra, Ant design, React bootstrap, Mantine
 - Version Control: Git
 - Database: Firebase
 
