@@ -35,7 +35,11 @@ curl -fsSL https://raw.githubusercontent.com/amirjf/peekaboo/main/install.sh | b
 
 ## ✍️ Latest from the Zal blog
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Evidence-Ledger AI Catches Unsupported Claims With 67% Accuracy](https://www.zal-group.com/news/product-model-releases/evidence-ledger-adjudication-claim-traceability-ai)
+- [EvoPINN: AI Agent Autonomously Discovers New Physics Algorithms](https://www.zal-group.com/news/product-model-releases/evopinn-ai-agent-discovers-physics-informed-neural-network-algorithms)
+- [EvoPINN: AI Agent Autonomously Designs Physics Neural Networks](https://www.zal-group.com/news/product-model-releases/evopinn-ai-agent-autonomously-designs-physics-neural-networks)
+- [MultivationBench Exposes Gaps in AI Social Reasoning](https://www.zal-group.com/news/ai-industry-news/multivationbench-benchmark-multimodal-sequential-motivation-reasoning)
+- [CG-World Dataset Offers 850K Segments for AI World Models](https://www.zal-group.com/news/product-model-releases/cg-world-dataset-world-models-850k-segments)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🐍 Contributions
