@@ -1,8 +1,8 @@
-![Header image](https://raw.githubusercontent.com/Amirjf/Amirjf/main/github_header.jpg)
+<img src="./banner.png" alt="Amir Jafari — software engineer building full-stack products and AI pipelines. Amsterdam, NL." width="100%">
 
 ### Hi, I'm Amir 👋
 
-Software engineer in Groningen, Netherlands. I build full-stack products and AI pipelines, and I run [Zal Group](https://www.zal-group.com), a small studio that ships its own apps and builds automation for clients.
+Software engineer in Amsterdam, Netherlands. I build full-stack products and AI pipelines, and I run [Zal Group](https://www.zal-group.com), a small studio that ships its own apps and builds automation for clients.
 
 [![LinkedIn](https://img.shields.io/badge/-Amir%20Jafari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-jafari/)
 [![Zal Group](https://img.shields.io/badge/-zal--group.com-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://www.zal-group.com/projects)
@@ -27,6 +27,8 @@ curl -fsSL https://raw.githubusercontent.com/amirjf/peekaboo/main/install.sh | b
 ```
 
 ## ⚡ Stack
+
+[![Stack](https://skillicons.dev/icons?i=ts,js,py,swift,react,nextjs,astro,tailwind,nodejs,fastapi,postgres,supabase,cloudflare,docker,terraform,sentry&perline=16)](https://skillicons.dev)
 
 - **Languages:** TypeScript, JavaScript, Python, Swift
 - **Frontend:** React, Next.js, TanStack Start, Astro, React Native / Expo, Tailwind CSS
